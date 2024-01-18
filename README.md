@@ -1,11 +1,11 @@
-# CabBuddy (Cab Sharing Web App)
+# FineCab (Cab Sharing Web App)
 
 ## Overview
 An efficient real time cab sharing platform for a journey using Node.js, and MongoDB for database
 
 ## Features
 - Searching and request-response functionality to find journey partner and driver for a journey
-[Demo of the Portal](https://github.com/anilpiparaiya/CabBuddy/blob/main/demo/demo.md)
+[Demo of the Portal](https://github.com/Deep14112001/FineCab/blob/main/demo/demo.md)
 
 ## Getting Started
 ### Prerequisites
@@ -16,7 +16,7 @@ An efficient real time cab sharing platform for a journey using Node.js, and Mon
 ### Please follow the given procedure to see the result
 
 #### Step: 1
-  Clone the directory using command `git clone https://github.com/anilpiparaiya/CabBuddy`
+  Clone the directory using command `git clone https://github.com/Deep14112001/FineCab`
 #### Step: 2
   Open the directory `CabBuddy` and run `npm start` on terminal
   You will see server start at port : 3000
@@ -45,7 +45,7 @@ This project is licensed under the ISC License - see the LICENSE.md file for det
 
 [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=2503s)
 
-[Akash Bhoi Cabsharing](https://github.com/Akashbhoi/Cabsharing)
+
 
 [MERN Stack Tutorial - Book Store Project](https://www.youtube.com/watch?v=-42K44A1oMA&list=PLq8CzP6POlA7-c6YPTPIa3xgjzLMGSh1t&index=2)
 
